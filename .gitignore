@@ -46,7 +46,6 @@ Thumbs.db
 .ipynb_checkpoints
 
 # Model files (if they're large)
-*.pth
 *.pt
 *.pkl
 *.h5 
